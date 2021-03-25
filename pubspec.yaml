@@ -36,7 +36,7 @@ dev_dependencies:
   brick_offline_first_with_rest_build:
     git:
       url: https://github.com/greenbits/brick.git
-      ref: 98601ddabf75adbbc368eeb2b570eb5b8b373e01
+#      ref: 98601ddabf75adbbc368eeb2b570eb5b8b373e01
       path: packages/brick_offline_first_with_rest_build
   build_runner: any
 
